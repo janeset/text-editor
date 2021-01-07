@@ -1,0 +1,76 @@
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.exe.config
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.exe
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.pdb
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csprojAssemblyReference.cache
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\About.g.cs
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\ClosingWindow.g.cs
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\MainWindow.g.cs
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\App.g.cs
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos_MarkupCompile.cache
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos_MarkupCompile.lref
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\About.baml
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\ClosingWindow.baml
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\MainWindow.baml
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.g.resources
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.Properties.Resources.resources
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csproj.GenerateResource.cache
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csproj.CoreCompileInputs.cache
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.exe
+C:\Users\Jane Conestoga\Desktop\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.pdb
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.exe.config
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.exe
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.pdb
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csprojAssemblyReference.cache
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\About.g.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\ClosingWindow.g.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\MainWindow.g.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\App.g.cs
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos_MarkupCompile.cache
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos_MarkupCompile.lref
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\About.baml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\ClosingWindow.baml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\MainWindow.baml
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.g.resources
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.Properties.Resources.resources
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csproj.GenerateResource.cache
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csproj.CoreCompileInputs.cache
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.exe
+C:\Users\Jane Conestoga\Desktop\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.pdb
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.exe.config
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.exe
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\bin\Debug\A2_janethSantos.pdb
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csprojAssemblyReference.cache
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\About.g.cs
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\ClosingWindow.g.cs
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\MainWindow.g.cs
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\App.g.cs
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos_MarkupCompile.cache
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos_MarkupCompile.lref
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\About.baml
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\ClosingWindow.baml
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\MainWindow.baml
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.g.resources
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.Properties.Resources.resources
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csproj.GenerateResource.cache
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.csproj.CoreCompileInputs.cache
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.exe
+C:\Users\Jane\Desktop\SET\Semester 3 Fall 2020\_WindowsMobile\WindowsMobile\CleanProjects\A2_janethSantos\A2_janethSantos\A2_janethSantos\obj\Debug\A2_janethSantos.pdb
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\bin\Debug\A2_janethSantos.exe.config
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\bin\Debug\A2_janethSantos.exe
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\bin\Debug\A2_janethSantos.pdb
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos.csprojAssemblyReference.cache
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\About.g.cs
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\ClosingWindow.g.cs
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\MainWindow.g.cs
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\App.g.cs
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos_MarkupCompile.cache
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos_MarkupCompile.lref
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\About.baml
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\ClosingWindow.baml
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\MainWindow.baml
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos.g.resources
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos.Properties.Resources.resources
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos.csproj.GenerateResource.cache
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos.csproj.CoreCompileInputs.cache
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos.exe
+C:\Users\Jane\OneDrive - Conestoga College\Projects\text-editor\A2_janethSantos\obj\Debug\A2_janethSantos.pdb

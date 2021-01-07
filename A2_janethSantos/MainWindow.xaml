@@ -1,0 +1,137 @@
+﻿ <!--/*
+* FILE : MainWindow.xaml
+* PROJECT : PROG2121 - Assignment #2
+* PROGRAMMER : Janeth Santos
+* FIRST VERSION : September 27, 2020
+* DESCRIPTION :
+* The purpose of this file is to contain the XAML code for the Main Program Window 
+* it displays a drop up menu for new, open, save and close a .txt file,
+* also has a dark mode and displays the count of the characters in a status bar at the bottom of the screen    
+*/-->
+    <Window x:Class="A2_janethSantos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A2_janethSantos"
+        mc:Ignorable="d"
+        Title="Tekst Editor" Height="450" Width="800" 
+        Icon="/Resources/text.ico" Closing="MainWindow_Closing"
+        >
+
+
+    <DockPanel Name="MainDockPanel"
+            Margin="0" >
+            <Menu Name="TopMenu"
+                DockPanel.Dock="Top" Background="WhiteSmoke">
+
+                <MenuItem Name="MiFile"
+                          Header="_File">
+
+                    <MenuItem Name="FileNew"
+                              Header="_New"
+                              Command="ApplicationCommands.New">
+                        <MenuItem.CommandBindings>
+                            <CommandBinding Command="ApplicationCommands.New"                                         
+                                            CanExecute="New_CanExecute" 
+                                            Executed="New_Executed"/>
+                        </MenuItem.CommandBindings>
+                    <MenuItem.Icon>
+                            <Image Source="/Resources/add-file.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Name="FileOpen"
+                              Command="ApplicationCommands.Open" 
+                              Header="_Open">
+                        <MenuItem.CommandBindings>
+                            <CommandBinding Command="ApplicationCommands.Open"                                         
+                                            CanExecute="OpenCommandBinding_CanExecute" 
+                                            Executed="OpenCommandBinding_Executed"/>
+                        </MenuItem.CommandBindings>
+                                              
+                        <MenuItem.Icon>
+                            <Image Source="/Resources/folder.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Name="FileSaveAs"
+                              Header="_Save As"
+                              Command="ApplicationCommands.SaveAs">
+                        <MenuItem.CommandBindings>
+                            <CommandBinding Command="ApplicationCommands.SaveAs"
+                                            CanExecute="SaveAsCommandBinding_CanExecute"
+                                            Executed="SaveAsCommandBinding_Executed"/>
+                        </MenuItem.CommandBindings>
+                        <MenuItem.Icon>
+                            <Image Source="/Resources/floppy-disk.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Name="FileClose"
+                              Header="_Close"
+                              Command="ApplicationCommands.Close">
+                        <MenuItem.CommandBindings>
+                            <CommandBinding Command="ApplicationCommands.Close" 
+                                            CanExecute="Close_CanExecute" 
+                                            Executed="Close_Executed"/>
+                        </MenuItem.CommandBindings>                    
+                        <MenuItem.Icon>
+                            <Image Source="/Resources/cancel.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                </MenuItem>
+
+                <MenuItem Name="Options"
+                          Header="Options">
+                    <MenuItem Name="DarkModeMenu" 
+                              Header="Dark Mode"
+                              IsCheckable="True"
+                              IsChecked="False"
+                              Click="DarkModeMenu_Click">
+                        <MenuItem.Icon>
+                            <Image Source="/Resources/lightsaber.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+
+                <MenuItem Name="MiHelp"
+                          Header="Help">
+                    <MenuItem Name="HelpAbout"
+                              Header="About Text Editor"
+                              Click="HelpAbout_Click">
+                        <MenuItem.Icon>
+                            <Image Source="/Resources/info.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+
+            </Menu>
+
+        <DockPanel >
+            <StatusBar Name="StatusBarBottom"
+                        DockPanel.Dock="Bottom">
+                <StatusBarItem>
+                    <TextBlock x:Name="TbCharCount"                                
+                               TextWrapping="Wrap"/>                    
+                </StatusBarItem>                
+            </StatusBar>
+        <TextBox x:Name="MainTextEditor" 
+                 DockPanel.Dock="Top"
+                 AcceptsReturn="True"
+                 AcceptsTab="True"
+                 VerticalScrollBarVisibility="Visible"
+                 TextWrapping="Wrap"
+                 FontSize = "15"
+                 Foreground="Black"
+                 FontFamily="Calibri"
+                 FontStyle="Normal"
+                 Background="White"
+                 Text="" 
+                 SelectionChanged="MainTextEditor_TextChanged" 
+                 TextChanged="MainTextEditor_TextChanged">
+         </TextBox>                
+                
+        </DockPanel>
+
+    </DockPanel>
+           
+</Window>

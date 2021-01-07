@@ -1,0 +1,47 @@
+﻿<!--/*
+* FILE : About.xaml
+* PROJECT : PROG2121 - Assignment #2
+* PROGRAMMER : Janeth Santos
+* FIRST VERSION : September 27, 2020
+* DESCRIPTION :
+* The purpose of this file is to contain the XAML code for the  About Window    
+*/-->
+
+    <Window x:Class="A2_janethSantos.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A2_janethSantos"
+        mc:Ignorable="d"
+        Title="About" Height="250" Width="450"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        Icon="/Resources/text.ico">
+
+    <Grid Margin="0">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Resources/nebula.jpg"/>
+        </Grid.Background>
+
+        <Image Source="/Resources/kitty.png" Margin="303,19,13,53" />
+
+        <TextBlock Margin="19,19,115,10" Foreground="#FFF8F8F8" FontSize="14" >
+            <Run Foreground="#FF4DCEE5" Text="Fun Facts About this Text Editor: "/><LineBreak/>
+            <Run Foreground="#FF4DCEE5" Text="      Tekst means Text in Dutch"/><LineBreak/><LineBreak/>
+            <Run Foreground="#FF80FF92" Text="Every time this text editor is opened..."/><LineBreak/>
+            <Run Foreground="#FF80FF92" Text="           a Brave kitty goes to explore Space..."/><LineBreak/><LineBreak/>
+            <Run Foreground="#FF8CD3EE" Text="Programmer: Janeth Santos"/><LineBreak/>
+            <Run Foreground="#FF8CD3EE" Text="Program: Software Engineering Technology"/>
+            <LineBreak/><Run Foreground="#FF8CD3EE" Text="Conestoga College "/></TextBlock>
+        <Button Content="Okay" 
+                HorizontalAlignment="Left" 
+                Margin="330,165,0,0" 
+                VerticalAlignment="Top" 
+                Width="75" 
+                Click="AboutButton_Click" 
+                BorderBrush="#FFF1FFFD" 
+                Background="#FF09565E" 
+                Foreground="White"/>
+    </Grid>
+</Window>
